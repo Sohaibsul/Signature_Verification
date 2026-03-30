@@ -23,4 +23,4 @@ Below is the visual representation of the model's performance:
 
 **Conclusion:** CNN provides superior precision, which is crucial for reducing false positives in forgery detection.
 
-**Author:** Sohaib Sulman (24i-8068)
+**Author:** Sohaib Sulman 
